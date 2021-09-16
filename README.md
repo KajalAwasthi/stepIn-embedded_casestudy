@@ -4,3 +4,6 @@ This project is based on the concepts of Enbedded C programming. In this project
 
 ## Overview of activities
 ![casestudy](https://user-images.githubusercontent.com/89745488/133445870-f66a14bd-0b18-4311-9d96-4bb68030c6c0.PNG)
+
+## Codacy batch
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fcfb3b0539cb46ad8df1e252f8244af8)](https://www.codacy.com/gh/KajalAwasthi/stepIn-embC_casestudy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KajalAwasthi/stepIn-embC_casestudy&amp;utm_campaign=Badge_Grade)
